@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406004206806",
+    "firebase_url": "https://doorfinder-219512.firebaseio.com",
+    "project_id": "doorfinder-219512",
+    "storage_bucket": "doorfinder-219512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406004206806:android:bd12a02fd2a55f4d",
+        "android_client_info": {
+          "package_name": "com.emmanuel.map2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406004206806-4e8l9hftipk9ctf2advnuuql3681hm78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxR30kbwUeRPZPDLKlPbTXw4tGjgvDhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
